@@ -1,0 +1,5 @@
+me/ssoresource/utils/JwtFilter.class
+me/ssoresource/SsoResourceApplication.class
+me/ssoresource/utils/ResourceController.class
+me/ssoresource/utils/CookiesUtils.class
+me/ssoresource/utils/JWTUtils.class

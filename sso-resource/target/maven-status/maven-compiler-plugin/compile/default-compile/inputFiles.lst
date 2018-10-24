@@ -1,0 +1,5 @@
+/home/martin/github/sso-tutorial/sso-resource/src/main/java/me/ssoresource/SsoResourceApplication.java
+/home/martin/github/sso-tutorial/sso-resource/src/main/java/me/ssoresource/utils/JwtFilter.java
+/home/martin/github/sso-tutorial/sso-resource/src/main/java/me/ssoresource/utils/ResourceController.java
+/home/martin/github/sso-tutorial/sso-resource/src/main/java/me/ssoresource/utils/JWTUtils.java
+/home/martin/github/sso-tutorial/sso-resource/src/main/java/me/ssoresource/utils/CookiesUtils.java

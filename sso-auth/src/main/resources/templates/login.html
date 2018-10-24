@@ -1,0 +1,24 @@
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:th="http://www.thymeleaf.org">
+
+<head>
+    <title>auth user</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+
+</head>
+
+<body>
+<form method="POST" th:action="@{${redirect}}">
+    <h2>Log in</h2>
+    <input name="username" type="text" placeholder="Username"
+           autofocus="true"/>
+    <input name="password" type="password" placeholder="Password"/>
+    <div th:text="${error}">(try username=admin and password=admin)</div>
+
+
+    <br/>
+    <button type="submit">Log In</button>
+</form>
+</body>
+
+</html>

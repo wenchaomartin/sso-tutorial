@@ -1,0 +1,5 @@
+/home/martin/github/sso-tutorial/sso-auth/src/main/java/me/ssotutorial/SsoTutorialApplication.java
+/home/martin/github/sso-tutorial/sso-auth/src/main/java/me/ssotutorial/utils/JWTUtils.java
+/home/martin/github/sso-tutorial/sso-auth/src/main/java/me/ssotutorial/utils/CookiesUtils.java
+/home/martin/github/sso-tutorial/sso-auth/src/main/java/me/ssotutorial/utils/JwtFilter.java
+/home/martin/github/sso-tutorial/sso-auth/src/main/java/me/ssotutorial/AuthController.java
